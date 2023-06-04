@@ -1,0 +1,5 @@
+The final result is:
+This is the text from first file
+This is the text from second fileThe final result is:
+This is the text from first file
+This is the text from second file
